@@ -45,8 +45,8 @@ function goToLink() {
     window.open('https://www.tku.edu.tw/', '_blank');
   } else if (selected === '第二周') {
     window.open('https://www.et.tku.edu.tw/', '_blank');
-  } else if (selected === '第三周') {
-    window.open('https://hackmd.io/ELLcU03eQ96lmklEG8xNFA', '_blank');
+  } else if (selected === '測驗') {
+    window.open('https://mina930919.github.io/0310/', '_blank');
   }
 }
 
